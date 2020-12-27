@@ -10,6 +10,7 @@ export default function Home({ allPostsData }) {
     <Layout home>
       <Head>
         <title>{siteTitle}</title>
+        <script data-ad-client="ca-pub-7105758262957060" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
       </Head>
       <section className={utilStyles.headingMd}>
         <p>Hey, I'm Felipe Betts. I started coding as a hobbie and now it has become my passion. Check out my <a href="https://github.com/felipebetts">gitHub</a> page.</p>
